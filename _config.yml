@@ -1,6 +1,6 @@
-title: Minimal theme
+title: Just-spa 项目模块工程化工具
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: Just-spa是一个项目模块工程化管理开发，内部集成组件项目脚手架、模块开发调试、mock数据、自动文档管理、自动单元测试等功能，让开发者更关注项目本身的实现
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
