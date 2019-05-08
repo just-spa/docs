@@ -40,11 +40,11 @@ just start
 
 &emsp;&emsp;just start会启动调试服务器，此时just会自动拉起浏览器打开 http://localhost:8000 ，即可看到调试组件的列表并查看just工具的详细文档。如下：
 
-&emsp;&emsp;![](/src/docs/img/preview.png)
+&emsp;&emsp;![](./img/preview.png)
 
 &emsp;&emsp;点击一个组件进入就可以界面化调试、管理、测试、打包、Mock联调你的组件了。另外组件对应的文档也会使用jsdoc2md自动帮你生成。开发者只需要关注开发组件的代码就可以了。
 
-&emsp;&emsp;![](/src/docs/img/preview1.png)
+&emsp;&emsp;![](./img/preview1.png)
 
 &emsp;&emsp;![](/src/docs/img/preview2.png)
 
