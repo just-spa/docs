@@ -96,4 +96,4 @@ just -v/version: 显示当前安装的just版本。
 just set: 设置npm、tnpm或tnpm，例如：just set tnpm。
 ```
 
-&emsp;&emsp;具体功能用法可以查看 [详细文档](/#docs)。
+&emsp;&emsp;具体功能用法可以查看 [详细文档](/docs/docs.html)。
